@@ -1,6 +1,7 @@
 import Card from "./Card"
+import './App.css'
 
-const App = () => {
+function App() {
   return (
    <Card/>
   )
