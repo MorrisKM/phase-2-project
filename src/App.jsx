@@ -1,13 +1,9 @@
-import Dashboard from "./Dashboard"
-
+import Card from "./Card"
 import './App.css'
 
 function App() {
-
   return (
-    <>
-    <Dashboard />
-    </>
+   <Card/>
   )
 }
 
